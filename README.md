@@ -25,7 +25,7 @@ docker-Fullstack/
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/docker-Fullstack.git
+    git clone https://github.com/DevWorld888/full-stack-docker.git
     cd docker-Fullstack
     ```
 
@@ -35,7 +35,7 @@ docker-Fullstack/
     ```
 
 3. **Access the app:**
-    - Frontend: [http://localhost:3000](http://localhost:3000)
+    - Frontend: [http://localhost:5173/](http://localhost:5173/)
     - api: [http://localhost:3000/api/users](http://localhost:3000/api/users)
 
 ## ⚙️ Configuration
