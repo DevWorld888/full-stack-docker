@@ -36,7 +36,7 @@ docker-Fullstack/
 
 3. **Access the app:**
     - Frontend: [http://localhost:3000](http://localhost:3000)
-    - Backend: [http://localhost:5000](http://localhost:5000)
+    - api: [http://localhost:3000/api/users](http://localhost:3000/api/users)
 
 ## ⚙️ Configuration
 
